@@ -1,5 +1,3 @@
-## Getting Started
+## Figure Geometriche
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-prova GitHub
+Piccola repo di prova java, laboratorio strumenti e software UniGe 2022
