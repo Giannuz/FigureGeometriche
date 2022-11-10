@@ -1,3 +1,3 @@
 ## Figure Geometriche
 
-Piccola repo di prova java, laboratorio strumenti e software UniGe 2022
+Piccola repo di PROVA java, laboratorio strumenti e software UniGe 2022
